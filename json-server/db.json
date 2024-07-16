@@ -1,0 +1,168 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "SP1",
+      "image": "https://picsum.photos/100/200",
+      "price": 100,
+      "description": "Mô tả sản phẩm 1",
+      "category": "Category 1",
+      "reviews": 10
+    },
+    {
+      "id": "2",
+      "name": "SP2",
+      "image": "https://picsum.photos/100/200",
+      "price": 200,
+      "description": "Mô tả sản phẩm 2",
+      "category": "Category 2",
+      "reviews": 20
+    },
+    {
+      "id": "3",
+      "name": "SP3",
+      "image": "https://picsum.photos/100/200",
+      "price": 300,
+      "description": "Mô tả sản phẩm 3",
+      "category": "Category 3",
+      "reviews": 30
+    },
+    {
+      "id": "4",
+      "name": "SP4",
+      "image": "https://picsum.photos/100/200",
+      "price": 100,
+      "description": "Mô tả sản phẩm 4",
+      "category": "Category 1",
+      "reviews": 40
+    },
+    {
+      "id": "5",
+      "name": "SP5",
+      "image": "https://picsum.photos/100/200",
+      "price": 200,
+      "description": "Mô tả sản phẩm 5",
+      "category": "Category 2",
+      "reviews": 50
+    },
+    {
+      "id": "6",
+      "name": "SP6",
+      "image": "https://picsum.photos/100/200",
+      "price": 300,
+      "description": "Mô tả sản phẩm 6",
+      "category": "Category 3",
+      "reviews": 60
+    },
+    {
+      "id": "7",
+      "name": "SP7",
+      "image": "https://picsum.photos/100/200",
+      "price": 100,
+      "description": "Mô tả sản phẩm 7",
+      "category": "Category 1",
+      "reviews": 70
+    },
+    {
+      "id": "8",
+      "name": "SP8",
+      "image": "https://picsum.photos/100/200",
+      "price": 200,
+      "description": "Mô tả sản phẩm 8",
+      "category": "Category 2",
+      "reviews": 80
+    },
+    {
+      "id": "9",
+      "name": "SP9",
+      "image": "https://picsum.photos/100/200",
+      "price": 300,
+      "description": "Mô tả sản phẩm 9",
+      "category": "Category 3",
+      "reviews": 90
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "username": "admin",
+      "email": "admin@gmail.com",
+      "password": "admin"
+    },
+    {
+      "email": "sinhtvph30878@fpt.edu.vn",
+      "password": "$2a$10$g7Ibt08v4vw2ccTOVxVeyOVFywiURtj3LsxB6q3gbYPv2BK3.HKEi",
+      "username": "Tống Văn Sinh",
+      "id": "tsVf6ea"
+    },
+    {
+      "email": "Admin3@gmail.com",
+      "password": "$2a$10$vjeKXyKiHaxvfI2tDcBeNO/8WOmBB/sR6eOk5b3hMc7A9OanpRPZ.",
+      "username": "Tống Văn Sinh",
+      "id": "0bD7vNm"
+    },
+    {
+      "email": "Admin@gmail.com",
+      "password": "$2a$10$PV5ajulNxVJHnQhikp6shemes3eWur7.CLRkCekbVVO3pF/lKnjCu",
+      "username": "Tống Văn Sinh",
+      "id": "_OppNAn"
+    },
+    {
+      "email": "sinhsk204@gmail.com",
+      "password": "$2a$10$ku08BnXbY2AEdM/I1.auO.u1qgPbALNQnxhX09zLM1J3eUj0NGN2i",
+      "username": "Tống Văn Sinh",
+      "id": "XKdjAOj"
+    },
+    {
+      "email": "Admin1@gmail.com",
+      "password": "$2a$10$mwmUVhoajabZMbiGFZhlSexTVbfD.Rkbz7unC6L8c3MnpcTMqJqWS",
+      "username": "Admin1",
+      "id": "9t4DMrl"
+    },
+    {
+      "email": "Admin2@gmail.com",
+      "password": "$2a$10$x3Dix0STj151O2cuAI/g1.jEKrq9KuJ691ZH04ypu.nksvB.9CV.q",
+      "username": "Admin2",
+      "id": "6rCwaX7"
+    },
+    {
+      "email": "Admin6@gmail.com",
+      "password": "$2a$10$ZPf0ElS0s7vYFSzcnRKGOOcoQAte7KOjj1KFdvdXSPuVrHLHGh5Dq",
+      "username": "Admin3",
+      "id": "oX_Vim7"
+    },
+    {
+      "email": "sinhsk205@gmail.com",
+      "password": "$2a$10$eRztbg.wF1whWCt5Ahk5/OMlism5ux/.1CnZ.GcU4tZX/FwelphZC",
+      "username": "sinhtv",
+      "id": "x12JM5a"
+    },
+    {
+      "email": "sinhsk206@gmail.com",
+      "password": "$2a$10$IcTxB0Wb2jGdPhi3BoTdLO608J/AXKoxIu0wLjJeo6ek6TnYQNcGi",
+      "username": "sinhtv",
+      "id": "AWcBGsJ"
+    },
+    {
+      "email": "stv@gmail.com",
+      "password": "$2a$10$2DZy9YMojfGC5Kj8f8blS.MsycPNxPIUChcm80.En0nJ1wFCbHhJK",
+      "username": "stv",
+      "passwordConfirm": "123456",
+      "id": "BiHGE7c"
+    },
+    {
+      "email": "sinhsk200@gmail.com",
+      "password": "$2a$10$LjPFSJyQOL0N8f9/I49J6OHvzfVk4dOPScqOI9aZgC4ishK2LxAwa",
+      "username": "Stv",
+      "passwordConfirm": "03082003",
+      "id": "7lZAHXt"
+    },
+    {
+      "email": "sinhsk201@gmail.com",
+      "password": "$2a$10$f2WXt.N.yKOojQYrZaS0deu8KBgOOxdfRT3wZ6ejelMQRdoQlbNpG",
+      "username": "TVS",
+      "passwordConfirm": "123456",
+      "id": "WLF-hht"
+    }
+  ]
+}
